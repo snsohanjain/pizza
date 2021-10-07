@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+}
+
+#DH5 {
+  background-image: url(https://www.dominos.co.in/assets/header_bg.png);
+  padding: 50px;
+  margin: auto;
+  background-color: dodgerblue;
+}
+#W1 {
+  color: white;
+}
+#W2 {
+  color: Ivory;
+}
+
+#B1 {
+  background-color: limegreen;
+  margin: auto;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+#B2 {
+  background-color: Crimson;
+  border-radius: 5px;
+  margin-left: 65px;
+}
+#D1 {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+#M1 {
+  color: DarkSlateGray;
+}
+#T1 {
+  background-color: #d7e9f7;
+}
+#HO {
+  color: #8ca1a5;
+}
+#T1 {
+  color: #8ca1a5;
+}
+#F1 {
+  background-color: #596e79;
+  margin: 0px;
+}
+
+#T2 {
+  color: #767c77;
+}
+
+body {
+  background-color: #d7e9f7;
+}
+
+table {
+  width: 100%;
+}
+#B2:hover {
+  background-color: rgb(141, 31, 53);
+}
+#gallery {
+  width: 1px;
+  height: 1px;
+}
+#img1 {
+  size: 10px;
+  width: 265px;
+  height: 265px;
+  border-radius: 15px;
+}
+#img2 {
+  width: 150px;
+  height: 60px;
+}
